@@ -80,6 +80,19 @@ em {
     margin-bottom: 0;
 }
 
+.learn-more {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 10px;
+    transition: opacity 0.2s;
+}
+
+.learn-more:hover {
+    opacity: 0.7;
+}
+
 footer {
     margin-top: 80px;
     padding-top: 30px;
